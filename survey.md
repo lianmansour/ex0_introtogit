@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: green
+Favorite food: pizza bianca
+Favorite musician/band: coldplay
+Favorite movie: the hunger games
+Requested grade in the course: 95
